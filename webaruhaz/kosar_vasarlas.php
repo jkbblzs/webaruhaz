@@ -46,8 +46,7 @@ print("<table class=\"table table-condensed table table-striped\">
 		print("<th style= \"width: 2%\">Ár</th>");
 		print("<th style= \"width: 2%\">Foto</th>");
 		//print("<th style= \"width: 2%\">foto_nk</th>");
-		print("<th style= \"width: 2%\">Készlet</th>");	
-		print("<th style= \"width: 2%\">Vásárlás</th>");			
+		print("<th style= \"width: 2%\">Készlet</th>");			
 print("</tr>
 	</thead>");
 	
