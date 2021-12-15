@@ -30,6 +30,9 @@ echo '<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
     <li class="nav-item">
       <a class="nav-link" href="memoria.php">Memória</a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" href="cookie.html">Cookie</a>
+    </li>
   </ul>
 </div>  
 </nav>';

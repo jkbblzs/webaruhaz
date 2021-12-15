@@ -1,0 +1,36 @@
+.bg-img {
+    /* The image used */
+    background-image: url("cookie.jpg");
+  
+    min-height: 380px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+  
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    background-color: None;
+    color:red;
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    color: rgb(82, 73, 73) !important;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: None;
+    color: black !important;
+  }
